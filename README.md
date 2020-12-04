@@ -3,16 +3,13 @@
 # Horiseon Website
 
 ## Description 
-This is a website used to help and develop ideas and manage a company in order to be successful. Using Search Engine Optimization (SEO), Online Repuation Management and Social Media Marketing will improve any business by applying these tactics. In short Horiseon with help bring customers directly to the website, find it with improved search rankings that'll make it more visible and will manage costs so it avoids overpaying with unnecessary advertisements.
+Website used to help and develop ideas and manage a company in order to be successful. Using Search Engine Optimization (SEO), Online Repuation Management and Social Media Marketing improves any business by applying these tactics. In short, Horiseon helps bring customers directly to the website, search rankings increase visibility and manage costs avoiding overpaying with unnecessary advertisements.
 
 ## Table of Contents
 [Installation](#installation)
 [Usage](#Usage)
 [Credits](#Credits)
 [License](#License)
-
-
-
 
 
 
@@ -49,9 +46,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-
-## Features
 
 
 ## contributing
